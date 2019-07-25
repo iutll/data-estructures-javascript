@@ -3,6 +3,7 @@
 	linked list in JavaScript
 
 	by Carlos Martínez
+	github.com/carlosedua
 =================================
 */
 
